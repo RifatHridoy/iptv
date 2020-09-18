@@ -169,14 +169,12 @@ http://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 					
 				Star TV
 
-#EXTINF:-1 tvg-logo="#" group-title="Movies", Jalsha Movies [IN]
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="Movies", Jalsha Movies
+http://iptv.kitv.live:1935/live/Shari/MTV-P/25.m3u8
 
 #EXTINF:-1 tvg-logo="#" group-title="Movies", Star Movie Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 
-#EXTINF:-1 tvg-logo="#" group-title="Movies", Jalsha Movies
-http://itpolly.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="#" group-title="Entertainment", Star Jalsha
 http://103.205.133.19/hls/chsj.m3u8

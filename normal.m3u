@@ -170,7 +170,7 @@ http://bds.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 				Star TV
 
 #EXTINF:-1 tvg-logo="#" group-title="Movies", Jalsha Movies
-http://iptv.kitv.live:1935/live/Shari/MTV-P/25.m3u8
+http://aklivetv.com:8080/jalshamovies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="#" group-title="Movies", Star Movie Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
@@ -179,43 +179,42 @@ http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Entertainment", Star Jalsha
 http://103.205.133.19/hls/chsj.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Entertainment", Star Jalsha HD [IN]
-https://stream.rangdhanu.live/StarJalshaHD/tracks-v1a1/mono.m3u8?token=1235da0a818bad6b55f811159bab8b97f2414d8c-fbe462c3d28a658177194d8f73f3d6f6-1600442275-1600431475
+http://198.255.87.59:8080/INDIA_BENGALI/STAR_JALSHA_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="#" group-title="Entertainment", STAR PLUS
 http://robi.iptv.digijadoo.net/live/star_plus/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="#" group-title="Entertainment", STAR PLUS HD
-http://robi.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+http://198.255.87.59:8080/INDIA_HINDI/STAR_PLUS_HD/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="#" group-title="Movies", STAR BHARAT
-http://robi.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="Movies", STAR BHARAT HD
+http://198.255.87.59:8080/INDIA_HINDI/STAR_BHARAT_HD/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="#" group-title="Movies", Star Gold
-http://robi.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
+http://89.187.169.204:2200/NL/stargold-uk/tracks-v1a1/mono.m3u8?token=
 
 #EXTINF:-1 tvg-logo="#" group-title="Movies", Star Gold HD
-http://robi.iptv.digijadoo.net/live/star_gold/playlist.m3u8
+http://198.255.87.59:8080/INDIA_HINDI/STAR_GOLD_HD/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="#" group-title="Movies", Star Gold 2
-http://robi.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
+http://45.249.187.238:8081/hls/tsl-3.m3u8
 
 
-#EXTINF:-1 tvg-logo="#" group-title="Movies", Star Bharat
-http://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
-#EXTINF:-1 tvg-logo="#" group-title="Movies", Star Gold HD
-http://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-#EXTINF:-1 tvg-logo="#" group-title="Movies", Star Gold International
-http://itpolly.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
-#EXTINF:-1 tvg-logo="#" group-title="Movies", Star Gold 2
-http://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="#" group-title="English", Star World
-http://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
+http://198.255.87.59:8080/INDIA_ENGLISH/STAR_WORLD_HD/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="#" group-title="English", STAR WORLD
-http://robi.iptv.digijadoo.net/live/star_world/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="#" group-title="Movies", Star Movies
 http://45.249.187.238:8081/hls/tsl-8.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Movies", Star Movies HD
+http://198.255.87.59:8080/INDIA_ENGLISH/STAR_MOVIES_HD/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-logo="#" group-title="Movies", Star Movies HD
+http://198.255.87.59:8080/INDIA_ENGLISH/STAR_MOVIES_SELECT_HD/tracks-v1a1/mono.m3u8?token=test
 
 
 
@@ -227,15 +226,38 @@ http://45.249.187.238:8081/hls/tsl-8.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Movies", Zee Bangla Cinema
 http://103.141.66.36/bpk-tv/10263/default/index.m3u8
 
+#EXTINF:-1 tvg-logo="#" group-title="Movies", Zee Bangla Cinema[IN]
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-logo="#" group-title="Entertainment", Zee Bangla SD [IN]
-http://robi.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
+http://aklivetv.com:8080/zeebangla/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="#" group-title="Entertainment", Zee Bangla
-http://itpolly.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="#" group-title="Entertainment", Zee Bangla
-http://45.249.187.238:8081/hls/new8.m3u8
+http://103.205.133.50/hls/zeebangla.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="Entertainment", Zee Bangla HD
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeebanglahd/index.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Entertainment", Zee Bangla HD[IN]
+http://89.187.169.206:2200/R-EX/BENGALI_ZEE_BANGLA_HD-in/tracks-v1a1/mono.m3u8?token=
+
+#EXTINF:-1 tvg-logo="#" group-title="Entertainment", Zee TV
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/apacsea/index.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Entertainment", Zee TV
+http://45.249.187.238:8081/hls/tsl-5.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="Entertainment", Zee TV
+http://103.214.202.218:8081/live/zeetv-31/playlist.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="Entertainment", Zee TV
+http://103.49.168.172:8081/ebox/in_zee_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="#" group-title="Entertainment", Zee TV HD
-http://robi.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeetvhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Entertainment", Zee TV Canada
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/canadahd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="#" group-title="Entertainment", Zee TV USA
+http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="#" group-title="Movies", Zee Cinema
 http://robi.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8

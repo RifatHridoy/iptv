@@ -5,8 +5,18 @@
 
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", Ekattor TV
 http://airam-tafir.github.io/hls/bangla/ekattor-tv.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="Bangla", Ekattor TV
+http://airam-tafir.github.io/hls/bangla/extra/ekattortv.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="Bangla", Ekattor TV
+http://45.249.187.238:8081/hls/live6.m3u8
 #EXTINF:-1  tvg-logo="#" group-title="Bangla", News 24
 http://103.49.168.172:8081/ebox/bd_news24/chunks.m3u8
+#EXTINF:-1  tvg-logo="#" group-title="Bangla", News 24
+http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
+#EXTINF:-1  tvg-logo="#" group-title="Bangla", News 24
+http://45.249.187.238:8081/hls/live4.m3u8
+#EXTINF:-1  tvg-logo="#" group-title="Bangla", News 24
+http://103.214.202.218:8081/live/news24-24/chunks.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", Sangsad TV [BD]
 http://airam-tafir.github.io/hls/bangla/songsodtv.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", BTV WORLD [BD]
@@ -37,8 +47,12 @@ http://airam-tafir.github.io/hls/bangla/boishakhitv.m3u8
 https://airam-tafir.github.io/hls/bangla/bangla-vision.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", MY TV [BD]
 https://airam-tafir.github.io/hls/bangla/mytv.m3u8
-#EXTINF:-1 tvg-logo="#" group-title="Bangla", MOHONA TV [BD]
-http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8?@dekhotv
+#EXTINF:-1 tvg-logo="#" group-title="Bangla", MOHONA TV
+http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="Bangla", MOHONA TV
+http://103.49.168.172:8081/ebox/bd_mohona_tv/chunks.m3u8
+#EXTINF:-1 tvg-logo="#" group-title="Bangla", MOHONA TV
+http://103.214.202.218:8081/live/mohona/chunks.m3u8
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", MAASRANGA TV [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.ts
 #EXTINF:-1 tvg-logo="#" group-title="Bangla", CHANNEL 9 [BD]

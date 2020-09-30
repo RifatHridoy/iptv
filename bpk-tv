@@ -1,0 +1,446 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTO-S_2m91zxm2KECBNAR5rzjoCrxPWVqKQKcsUUwEZ9raUkbq&usqp=CAU" group-title="Bangla", (OFFLINE) BTV Chottogram
+http://103.141.66.36/bpk-tv/10335/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="Bangla", (OFFLINE) BTV National
+http://103.141.66.36/bpk-tv/10330/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-X3GWMRvX6j0/Vtl5BL2Pu0I/AAAAAAAAAHo/8Sou_MnsF9w/s1600/BTV%2BLive.gif" group-title="Bangla", (OFFLINE) BTV World
+http://103.141.66.36/bpk-tv/10031/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangla", (OFFLINE) Sangsad TV
+http://103.141.66.36/bpk-tv/10036/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Bangla", (OFFLINE) Gazi TV
+http://103.141.66.36/bpk-tv/10328/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Bangla", (OFFLINE) Maasranga TV
+http://103.141.66.36/bpk-tv/10154/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Bangla", (OFFLINE) Channel 9 HD
+http://103.141.66.36/bpk-tv/10080/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/সময়_টিভির_লোগো.svg/360px-সময়_টিভির_লোগো.svg.png" group-title="Bangla News", (OFFLINE) Somoy News
+http://103.141.66.36/bpk-tv/10030/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="Bangla News", (OFFLINE) INDEPENDENT TV
+http://103.141.66.36/bpk-tv/10005/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ykaweLI.jpg" group-title="Bangla News", (OFFLINE) ATN NEWS
+http://103.141.66.36/bpk-tv/10010/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="Bangla News", (OFFLINE) JAMUNA TV
+http://103.141.66.36/bpk-tv/10037/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="Bangla News", (OFFLINE) CHANNEL 24
+http://103.141.66.36/bpk-tv/10008/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WmLw772.png" group-title="Bangla News", (OFFLINE) DBC NEWS
+http://103.141.66.36/bpk-tv/10256/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="Bangla", (OFFLINE) RTV
+http://103.141.66.36/bpk-tv/10257/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Bangla", (OFFLINE) ATN Bangla
+http://103.141.66.36/bpk-tv/10009/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="Bangla", (OFFLINE) Channel I HD
+http://103.141.66.36/bpk-tv/10026/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png" group-title="Bangla", (OFFLINE) Nagorik TV HD
+http://103.141.66.36/bpk-tv/10451/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image297305a5fb7672b4.png" group-title="Bangla", (OFFLINE) Deepto TV HD
+http://103.141.66.36/bpk-tv/10455/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="Bangla", (OFFLINE) Bangla Vision
+http://103.141.66.36/bpk-tv/10027/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="Bangla", (OFFLINE) Desh TV
+http://103.141.66.36/bpk-tv/10038/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/240px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangla", (OFFLINE) NTV
+http://103.141.66.36/bpk-tv/10029/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bangla_Tv_Logo.jpg/220px-Bangla_Tv_Logo.jpg" group-title="Bangla", (OFFLINE) Bangla TV
+http://103.141.66.36/bpk-tv/10032/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="Bangla", (OFFLINE) MY TV
+http://103.141.66.36/bpk-tv/10333/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="Bangla", (OFFLINE) Ekushey TV
+http://103.141.66.36/bpk-tv/10006/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/5/58/বিজয়_টিভির_লোগো.png/220px-বিজয়_টিভির_লোগো.png" group-title="Bangla", (OFFLINE) Bijoy TV
+http://103.141.66.36/bpk-tv/10227/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mohona_Logo.JPG/230px-Mohona_Logo.JPG" group-title="Bangla", (OFFLINE) Mohona TV
+http://103.141.66.36/bpk-tv/10011/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="Bangla", (OFFLINE) Boishakhi TV
+http://103.141.66.36/bpk-tv/10016/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-X3GWMRvX6j0/Vtl5BL2Pu0I/AAAAAAAAAHo/8Sou_MnsF9w/s1600/BTV%2BLive.gif" group-title="Bangla", (OFFLINE) BTV World
+http://103.141.66.36/bpk-tv/10031/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangla", (OFFLINE) Sangsad TV
+http://103.141.66.36/bpk-tv/10036/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Bangla", (OFFLINE) Gazi TV
+http://103.141.66.36/bpk-tv/10328/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://realvubd.com/wp-content/uploads/2016/11/Zee-Bangla-Cinema-1-768x365.png" group-title="Kolkata Bangla", (OFFLINE) Zee Bangla Cinema
+http://103.141.66.36/bpk-tv/10263/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTvqb4PqrO8ohIPKojcopDpi7611EFFiyVt5tTfHEY_5zgUeKh&usqp=CAU" group-title="Bangla", (OFFLINE) Ruposhi Bangla
+http://103.141.66.36/bpk-tv/10111/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thesamikhsya.com/wp-content/uploads/2019/07/aakashath.jpg" group-title="Kolkata Bangla", (OFFLINE) Akaash Aath
+http://103.141.66.36/bpk-tv/10112/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM4spPflPICAbCtRr9cjnMAbnxYS2JFec4fr57-_NbLztTXmqP&usqp=CAU" group-title="Kolkata Bangla", (OFFLINE) Khusbo Bangla
+http://103.141.66.36/bpk-tv/10139/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJe7LqmU4A8hkPzuAH5QZfl26GFaIT_I--rlobPJUGwTXHazT-&usqp=CAU" group-title="Kolkata Bangla", (OFFLINE) R Plus Gold
+http://103.141.66.36/bpk-tv/10181/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR8Ufo5e_v55UbJLEoPoPU79WOEdI7Mx6VrOI7aGJLCT-GQngEF&usqp=CAU" group-title="Kolkata Bangla", (OFFLINE) R plus
+http://103.141.66.36/bpk-tv/10078/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Dd_Bangla.PNG/180px-Dd_Bangla.PNG" group-title="Kolkata Bangla", (OFFLINE) DD Bangla
+http://103.141.66.36/bpk-tv/10336/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/AndTV_Logo.jpg" group-title="Hindi", (OFFLINE) And TV
+http://103.141.66.36/bpk-tv/10028/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmAzHRC9muMnpYuP_UQYc3i2UGx0jo0K_q8_1vFdRWeHCH2b_i&usqp=CAU" group-title="Hindi", (OFFLINE) And TV HD
+http://103.141.66.36/bpk-tv/10182/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="Hindi", (OFFLINE) Sony SAB SD
+http://103.141.66.36/bpk-tv/10234/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="Hindi", (OFFLINE) Sony TV HD
+http://103.141.66.36/bpk-tv/10401/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi", (OFFLINE) Zee TV
+http://103.141.66.36/bpk-tv/10062/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Hindi", (OFFLINE) Zee TV HD
+http://103.141.66.36/bpk-tv/10403/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", (OFFLINE) A plus
+http://103.141.66.36/bpk-tv/10079/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Pakistan", (OFFLINE) ARY Digital
+http://103.141.66.36/bpk-tv/10090/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Pakistan", (OFFLINE) ARY Family
+http://103.141.66.36/bpk-tv/10186/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Pakistan", (OFFLINE) ARY Zindagi
+http://103.141.66.36/bpk-tv/10091/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="Hindi Movies", (OFFLINE) Sony Max HD
+http://103.141.66.36/bpk-tv/10151/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Hindi Movies", (OFFLINE) Zee Cinema
+http://103.141.66.36/bpk-tv/10180/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRIvfTcBIL88Wa2OpuJu8X_uBAvUMWzjRWWb5BfDxNGZkiGy4o3&usqp=CAU" group-title="Hindi Movies", (OFFLINE) Zee Cinema HD
+http://103.141.66.36/bpk-tv/10430/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="Hindi Movies", (OFFLINE) And Picture
+http://103.141.66.36/bpk-tv/10190/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-OiPvYYvFrFM/W2HE0AnDaeI/AAAAAAAAAJ0/OKkrAIV1-VwUP8hSfuOl9Wfgho6-CrSxwCLcBGAs/s1600/zeeactionn%2B%25281%2529.png" group-title="Hindi Movies", (OFFLINE) Zee Action
+http://103.141.66.36/bpk-tv/10337/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZalVgZJccBSXMBGxag9FLvmL1F1SudYnOQh6NABeST5tRBFoJ&usqp=CAU" group-title="Hindi Movies", (OFFLINE) Zee Bollywood
+http://103.141.66.36/bpk-tv/10104/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi Movies", (OFFLINE) B4U Movies
+http://103.141.66.36/bpk-tv/10331/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi Movies", (OFFLINE) B4U Kadak
+http://103.141.66.36/bpk-tv/10312/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi Movies", (OFFLINE) Dabang
+http://103.141.66.36/bpk-tv/10301/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi Movies", (OFFLINE) Monorangan TV
+http://103.141.66.36/bpk-tv/10136/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi Movies", (OFFLINE) Monoranjan Grand
+http://103.141.66.36/bpk-tv/10103/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi Movies", (OFFLINE) Monoranjan Movies
+http://103.141.66.36/bpk-tv/10127/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi Movies", (OFFLINE) Enter 10
+http://103.141.66.36/bpk-tv/10137/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi Movies", (OFFLINE) Movie Plus
+http://103.141.66.36/bpk-tv/10138/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi Movies", (OFFLINE) Big Magic
+http://103.141.66.36/bpk-tv/10280/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="English Movies", (OFFLINE) Zee Café
+http://103.141.66.36/bpk-tv/10229/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="English Movies", (OFFLINE) & Flix
+http://103.141.66.36/bpk-tv/10304/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", (OFFLINE) Gaan Bangla
+http://103.141.66.36/bpk-tv/10353/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", (OFFLINE) Sangeet Bnagla
+http://103.141.66.36/bpk-tv/10129/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", (OFFLINE) Bangla Takies
+http://103.141.66.36/bpk-tv/10081/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", (OFFLINE) Dhoom Music
+http://103.141.66.36/bpk-tv/10113/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", (OFFLINE) ARY Music
+http://103.141.66.36/bpk-tv/10089/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", (OFFLINE) DW Asia
+http://103.141.66.36/bpk-tv/10057/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", (OFFLINE) Z ETC
+http://103.141.66.36/bpk-tv/10007/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", (OFFLINE) Zing
+http://103.141.66.36/bpk-tv/10102/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", (OFFLINE) B4U Music
+http://103.141.66.36/bpk-tv/10266/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", (OFFLINE) 9X Jalwa
+http://103.141.66.36/bpk-tv/10283/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", (OFFLINE) 9XO
+http://103.141.66.36/bpk-tv/10140/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", (OFFLINE) 9x Jakasa
+http://103.141.66.36/bpk-tv/10141/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", (OFFLINE) Sangeet Marathi
+http://103.141.66.36/bpk-tv/10334/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", (OFFLINE) Music India
+http://103.141.66.36/bpk-tv/10315/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", (OFFLINE) MTV Beats
+http://103.141.66.36/bpk-tv/10178/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", (OFFLINE) Damal
+http://103.141.66.36/bpk-tv/10504/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", (OFFLINE) MK Tunes
+http://103.141.66.36/bpk-tv/10165/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Music", (OFFLINE) Public Music
+http://103.141.66.36/bpk-tv/10134/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png" group-title="Sports", (OFFLINE) Sony Ten 1 HD
+http://103.141.66.36/bpk-tv/10476/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image2027358e00b6a4de.png" group-title="Sports", (OFFLINE) Sony Ten 2 HD
+http://103.141.66.36/bpk-tv/10479/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image3c15c0bbc913ecde.png" group-title="Sports", (OFFLINE) Sony Six HD
+http://103.141.66.36/bpk-tv/10480/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", (OFFLINE) Dubai Sports
+http://103.141.66.36/bpk-tv/10316/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Kairali Movies
+http://103.141.66.36/bpk-tv/10286/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Filmachi
+http://103.141.66.36/bpk-tv/10290/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Metro
+http://103.141.66.36/bpk-tv/10291/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Russia
+http://103.141.66.36/bpk-tv/10264/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) DD National
+http://103.141.66.36/bpk-tv/10265/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) MK TV
+http://103.141.66.36/bpk-tv/10107/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) MK SIX
+http://103.141.66.36/bpk-tv/10082/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) ABZy Movies
+http://103.141.66.36/bpk-tv/10076/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Ariang
+http://103.141.66.36/bpk-tv/10128/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Fakt Marathi
+http://103.141.66.36/bpk-tv/10040/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Onkar TV
+http://103.141.66.36/bpk-tv/10187/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Issak TV
+http://103.141.66.36/bpk-tv/10188/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) ABZY
+http://103.141.66.36/bpk-tv/10191/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Expresas
+http://103.141.66.36/bpk-tv/10235/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Aruvi TV
+http://103.141.66.36/bpk-tv/10261/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Kalanagar TV
+http://103.141.66.36/bpk-tv/10281/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Polymar
+http://103.141.66.36/bpk-tv/10303/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Sameroo
+http://103.141.66.36/bpk-tv/10313/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Hum Masala
+http://103.141.66.36/bpk-tv/10240/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Hum Sitaray
+http://103.141.66.36/bpk-tv/10241/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Moon
+http://103.141.66.36/bpk-tv/10164/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Care World
+http://103.141.66.36/bpk-tv/10176/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Food Food
+http://103.141.66.36/bpk-tv/10014/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Al-Jazeera
+http://103.141.66.36/bpk-tv/10051/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Al Jazarrea
+http://103.141.66.36/bpk-tv/10215/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) FR 24
+http://103.141.66.36/bpk-tv/10232/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) TV5 Asia
+http://103.141.66.36/bpk-tv/10056/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Masti
+http://103.141.66.36/bpk-tv/10210/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Euro News
+http://103.141.66.36/bpk-tv/10211/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) RT
+http://103.141.66.36/bpk-tv/10058/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) CTGN
+http://103.141.66.36/bpk-tv/10059/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) DW
+http://103.141.66.36/bpk-tv/10060/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) YTN World
+http://103.141.66.36/bpk-tv/10135/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) NDTV News
+http://103.141.66.36/bpk-tv/10305/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) NDTV 24/7
+http://103.141.66.36/bpk-tv/10306/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Zee News
+http://103.141.66.36/bpk-tv/10285/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) ABP News
+http://103.141.66.36/bpk-tv/10252/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) PTV Home
+http://103.141.66.36/bpk-tv/10253/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) ARY News
+http://103.141.66.36/bpk-tv/10254/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) PTV Worlds
+http://103.141.66.36/bpk-tv/10101/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Geo Tez
+http://103.141.66.36/bpk-tv/10262/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Geo News
+http://103.141.66.36/bpk-tv/10288/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) India News
+http://103.141.66.36/bpk-tv/10309/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Aaj Tak
+http://103.141.66.36/bpk-tv/10311/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) DD News
+http://103.141.66.36/bpk-tv/10332/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) India 24
+http://103.141.66.36/bpk-tv/10507/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) News
+http://103.141.66.36/bpk-tv/10511/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) No 1 News
+http://103.141.66.36/bpk-tv/10501/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) News 7
+http://103.141.66.36/bpk-tv/10502/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) TV 9
+http://103.141.66.36/bpk-tv/10503/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Saudi TV
+http://103.141.66.36/bpk-tv/10212/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Abu dhabi TV
+http://103.141.66.36/bpk-tv/10214/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Sarjah TV
+http://103.141.66.36/bpk-tv/10177/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Republic TV
+http://103.141.66.36/bpk-tv/10184/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Quaran
+http://103.141.66.36/bpk-tv/10201/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) ARY QTV
+http://103.141.66.36/bpk-tv/10088/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Kuwait TV
+http://103.141.66.36/bpk-tv/10202/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Sunna
+http://103.141.66.36/bpk-tv/10204/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Rai Italia
+http://103.141.66.36/bpk-tv/10209/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Dubai TV
+http://103.141.66.36/bpk-tv/10039/default/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Others", (OFFLINE) Libya
+http://103.141.66.36/bpk-tv/10077/default/index.m3u8
+
